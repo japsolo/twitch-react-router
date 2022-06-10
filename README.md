@@ -2,7 +2,7 @@
 
 En este repositorio te dejo el código base de una aplicación desarrollada React y [React Router](https://reactrouter.com/) en su versión 6.
 
-El código que ves aquí es el mismo que escribo en [este video](https://youtu.be/zK6qV9xU8zY) en YouTube. Espero le puedas sacar un buen uso.
+El código que ves aquí es el mismo que escribo en [este video](https://youtu.be/qM8T4wXG2V4) en YouTube. Espero le puedas sacar un buen uso.
 
 ---
 
